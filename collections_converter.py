@@ -20,5 +20,5 @@ def create_manifest(directory):
     print(f"Manifest saved at: {manifest_path}")
 
 # modify the path below to your targeted folder
-directory = '/path/to/your/directory'
+directory = 'Users\mihkm\Desktop\le\01. maimai'
 create_manifest(directory)
